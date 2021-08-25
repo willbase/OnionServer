@@ -1,0 +1,12 @@
+.vs
+
+Onion/bin
+Onion/obj
+Onion.Common/bin
+Onion.Common/obj
+Onion.Data/bin
+Onion.Data/obj
+Onion.Repo/bin
+Onion.Repo/obj
+Onion.Service/bin
+Onion.Service/obj
